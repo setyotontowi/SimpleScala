@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d6076a95-7ff0-419f-831c-d3520f07a54c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Scala Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1WgjzLUAOtbOlnVRI0SHjbFKppY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.42068964" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="Test1" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="root [file:/home/setyotontowi/Scala/test1/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="Test1-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$/build.sbt" value="18458218" />
+        <entry key="$PROJECT_DIR$/project/Dependencies.scala" value="1964861620" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="3724303870" />
+        <entry key="$PROJECT_DIR$/project/plugins.sbt" value="2573304535" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../hello-world-template" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d6076a95-7ff0-419f-831c-d3520f07a54c" name="Default Changelist" comment="" />
+      <created>1579578392545</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579578392545</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="278" y="59" width="800" height="675" key="#Auto_Import" timestamp="1579587972902">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="278" y="59" width="800" height="675" key="#Auto_Import/0.27.1366.741@0.27.1366.741" timestamp="1579587972902" />
+    <state x="416" y="155" width="524" height="482" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1579655690667">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="416" y="155" width="524" height="482" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.27.1366.741@0.27.1366.741" timestamp="1579655690667" />
+    <state x="194" y="27" width="1024" height="739" key="SettingsEditor" timestamp="1579590464240">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="194" y="27" width="1024" height="739" key="SettingsEditor/0.27.1366.741@0.27.1366.741" timestamp="1579590464240" />
+    <state x="382" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1579708274789">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="382" y="225" key="com.intellij.ide.util.TipDialog/0.27.1366.741@0.27.1366.741" timestamp="1579708274789" />
+    <state x="450" y="293" width="492" height="220" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1579586644581">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="450" y="293" width="492" height="220" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.27.1366.741@0.27.1366.741" timestamp="1579586644581" />
+    <state x="149" y="27" width="1058" height="739" key="new project wizard" timestamp="1579589811023">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="149" y="27" width="1058" height="739" key="new project wizard/0.27.1366.741@0.27.1366.741" timestamp="1579589811023" />
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1579657739489">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.27.1366.741@0.27.1366.741" timestamp="1579657739489" />
+  </component>
+</project>
